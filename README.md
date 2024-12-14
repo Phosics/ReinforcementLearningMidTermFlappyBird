@@ -1,0 +1,2 @@
+# ReinforcementLearningMidTermFlappyBird
+Midterm project for reinforcement learning course
